@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhumikajoshi123
 - 👀 I’m interested in learning new technologies!
-- 🌱 I’m currently learning OOPS
+- 🌱 I’m currently learning OOPS in C++
 - 💞️ I’m looking to collaborate on any Beginner level project/internship
 - 📫 How to reach me instagram:@iambhumikajoshi
                       LinkedIn: linkedin.com/in/bhumikajoshi2
